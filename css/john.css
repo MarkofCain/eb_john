@@ -1,0 +1,28 @@
+.miracle {
+    background-color: rgb(250, 250, 3);
+}
+
+.jesus_words {
+    /* background-color: rgb(250, 0, 0); */
+    color: rgb(250, 0, 0);
+    display: block; /* or display: inline-block; */ 
+    background-color: inherit;
+}
+
+.prologue {
+    background-color: rgba(87, 132, 228, 0.308);
+}
+
+.book_of_signs {
+    background-color: rgba(85, 122, 94, 0.308);
+}
+
+.book_of_glory {
+    background-color: rgba(185, 123, 177, 0.308);
+}
+
+hr.travel {
+    height: 20px;
+    border: 4;
+    background-color: rgba(43, 255, 0, 0.555);
+}
